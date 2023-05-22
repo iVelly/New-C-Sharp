@@ -1,0 +1,8 @@
+C:\Users\redzo\source\repos\iVelly\202330_SE245.03-C\Lab 1 - C# Basics\bin\Debug\Lab 1 - C# Basics.exe.config
+C:\Users\redzo\source\repos\iVelly\202330_SE245.03-C\Lab 1 - C# Basics\bin\Debug\Lab 1 - C# Basics.exe
+C:\Users\redzo\source\repos\iVelly\202330_SE245.03-C\Lab 1 - C# Basics\bin\Debug\Lab 1 - C# Basics.pdb
+C:\Users\redzo\source\repos\iVelly\202330_SE245.03-C\Lab 1 - C# Basics\obj\Debug\Lab 1 - C# Basics.csproj.AssemblyReference.cache
+C:\Users\redzo\source\repos\iVelly\202330_SE245.03-C\Lab 1 - C# Basics\obj\Debug\Lab 1 - C# Basics.csproj.SuggestedBindingRedirects.cache
+C:\Users\redzo\source\repos\iVelly\202330_SE245.03-C\Lab 1 - C# Basics\obj\Debug\Lab 1 - C# Basics.csproj.CoreCompileInputs.cache
+C:\Users\redzo\source\repos\iVelly\202330_SE245.03-C\Lab 1 - C# Basics\obj\Debug\Lab 1 - C# Basics.exe
+C:\Users\redzo\source\repos\iVelly\202330_SE245.03-C\Lab 1 - C# Basics\obj\Debug\Lab 1 - C# Basics.pdb

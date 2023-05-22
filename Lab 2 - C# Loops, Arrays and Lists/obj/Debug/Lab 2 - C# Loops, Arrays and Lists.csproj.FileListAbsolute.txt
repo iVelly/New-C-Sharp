@@ -1,0 +1,16 @@
+C:\Users\redzo\source\repos\iVelly\202330_SE245.03-C\Lab 2 - C# Loops, Arrays and Lists\bin\Debug\Lab 2 - C# Loops, Arrays and Lists.exe.config
+C:\Users\redzo\source\repos\iVelly\202330_SE245.03-C\Lab 2 - C# Loops, Arrays and Lists\bin\Debug\Lab 2 - C# Loops, Arrays and Lists.exe
+C:\Users\redzo\source\repos\iVelly\202330_SE245.03-C\Lab 2 - C# Loops, Arrays and Lists\bin\Debug\Lab 2 - C# Loops, Arrays and Lists.pdb
+C:\Users\redzo\source\repos\iVelly\202330_SE245.03-C\Lab 2 - C# Loops, Arrays and Lists\obj\Debug\Lab 2 - C# Loops, Arrays and Lists.csproj.AssemblyReference.cache
+C:\Users\redzo\source\repos\iVelly\202330_SE245.03-C\Lab 2 - C# Loops, Arrays and Lists\obj\Debug\Lab 2 - C# Loops, Arrays and Lists.csproj.SuggestedBindingRedirects.cache
+C:\Users\redzo\source\repos\iVelly\202330_SE245.03-C\Lab 2 - C# Loops, Arrays and Lists\obj\Debug\Lab 2 - C# Loops, Arrays and Lists.csproj.CoreCompileInputs.cache
+C:\Users\redzo\source\repos\iVelly\202330_SE245.03-C\Lab 2 - C# Loops, Arrays and Lists\obj\Debug\Lab 2 - C# Loops, Arrays and Lists.exe
+C:\Users\redzo\source\repos\iVelly\202330_SE245.03-C\Lab 2 - C# Loops, Arrays and Lists\obj\Debug\Lab 2 - C# Loops, Arrays and Lists.pdb
+C:\Users\Levi Da Don\source\repos\iVelly\202330_SE245.03-C\iVelly\202330_SE245.03-C\Lab 2 - C# Loops, Arrays and Lists\bin\Debug\Lab 2 - C# Loops, Arrays and Lists.exe.config
+C:\Users\Levi Da Don\source\repos\iVelly\202330_SE245.03-C\iVelly\202330_SE245.03-C\Lab 2 - C# Loops, Arrays and Lists\bin\Debug\Lab 2 - C# Loops, Arrays and Lists.exe
+C:\Users\Levi Da Don\source\repos\iVelly\202330_SE245.03-C\iVelly\202330_SE245.03-C\Lab 2 - C# Loops, Arrays and Lists\bin\Debug\Lab 2 - C# Loops, Arrays and Lists.pdb
+C:\Users\Levi Da Don\source\repos\iVelly\202330_SE245.03-C\iVelly\202330_SE245.03-C\Lab 2 - C# Loops, Arrays and Lists\obj\Debug\Lab 2 - C# Loops, Arrays and Lists.csproj.AssemblyReference.cache
+C:\Users\Levi Da Don\source\repos\iVelly\202330_SE245.03-C\iVelly\202330_SE245.03-C\Lab 2 - C# Loops, Arrays and Lists\obj\Debug\Lab 2 - C# Loops, Arrays and Lists.csproj.SuggestedBindingRedirects.cache
+C:\Users\Levi Da Don\source\repos\iVelly\202330_SE245.03-C\iVelly\202330_SE245.03-C\Lab 2 - C# Loops, Arrays and Lists\obj\Debug\Lab 2 - C# Loops, Arrays and Lists.csproj.CoreCompileInputs.cache
+C:\Users\Levi Da Don\source\repos\iVelly\202330_SE245.03-C\iVelly\202330_SE245.03-C\Lab 2 - C# Loops, Arrays and Lists\obj\Debug\Lab 2 - C# Loops, Arrays and Lists.exe
+C:\Users\Levi Da Don\source\repos\iVelly\202330_SE245.03-C\iVelly\202330_SE245.03-C\Lab 2 - C# Loops, Arrays and Lists\obj\Debug\Lab 2 - C# Loops, Arrays and Lists.pdb

@@ -1,0 +1,8 @@
+C:\Users\Levi Da Don\source\repos\Lab 3 Methods\bin\Debug\Lab 3 Methods.exe.config
+C:\Users\Levi Da Don\source\repos\Lab 3 Methods\bin\Debug\Lab 3 Methods.exe
+C:\Users\Levi Da Don\source\repos\Lab 3 Methods\bin\Debug\Lab 3 Methods.pdb
+C:\Users\Levi Da Don\source\repos\Lab 3 Methods\obj\Debug\Lab 3 Methods.csproj.AssemblyReference.cache
+C:\Users\Levi Da Don\source\repos\Lab 3 Methods\obj\Debug\Lab 3 Methods.csproj.SuggestedBindingRedirects.cache
+C:\Users\Levi Da Don\source\repos\Lab 3 Methods\obj\Debug\Lab 3 Methods.csproj.CoreCompileInputs.cache
+C:\Users\Levi Da Don\source\repos\Lab 3 Methods\obj\Debug\Lab 3 Methods.exe
+C:\Users\Levi Da Don\source\repos\Lab 3 Methods\obj\Debug\Lab 3 Methods.pdb

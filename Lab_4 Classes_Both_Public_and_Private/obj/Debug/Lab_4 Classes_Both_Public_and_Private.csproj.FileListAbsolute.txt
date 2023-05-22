@@ -1,0 +1,8 @@
+C:\Users\Levi Da Don\source\repos\Lab_4 Classes_Both_Public_and_Private\bin\Debug\Lab_4 Classes_Both_Public_and_Private.exe.config
+C:\Users\Levi Da Don\source\repos\Lab_4 Classes_Both_Public_and_Private\bin\Debug\Lab_4 Classes_Both_Public_and_Private.exe
+C:\Users\Levi Da Don\source\repos\Lab_4 Classes_Both_Public_and_Private\bin\Debug\Lab_4 Classes_Both_Public_and_Private.pdb
+C:\Users\Levi Da Don\source\repos\Lab_4 Classes_Both_Public_and_Private\obj\Debug\Lab_4 Classes_Both_Public_and_Private.csproj.AssemblyReference.cache
+C:\Users\Levi Da Don\source\repos\Lab_4 Classes_Both_Public_and_Private\obj\Debug\Lab_4 Classes_Both_Public_and_Private.csproj.SuggestedBindingRedirects.cache
+C:\Users\Levi Da Don\source\repos\Lab_4 Classes_Both_Public_and_Private\obj\Debug\Lab_4 Classes_Both_Public_and_Private.csproj.CoreCompileInputs.cache
+C:\Users\Levi Da Don\source\repos\Lab_4 Classes_Both_Public_and_Private\obj\Debug\Lab_4 Classes_Both_Public_and_Private.exe
+C:\Users\Levi Da Don\source\repos\Lab_4 Classes_Both_Public_and_Private\obj\Debug\Lab_4 Classes_Both_Public_and_Private.pdb

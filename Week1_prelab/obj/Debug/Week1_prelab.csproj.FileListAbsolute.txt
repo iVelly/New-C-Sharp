@@ -1,0 +1,16 @@
+C:\Users\Levi Da Don\source\repos\Week1_prelab\obj\Debug\Week1_prelab.csproj.AssemblyReference.cache
+C:\Users\Levi Da Don\source\repos\Week1_prelab\obj\Debug\Week1_prelab.csproj.SuggestedBindingRedirects.cache
+C:\Users\Levi Da Don\source\repos\Week1_prelab\obj\Debug\Week1_prelab.csproj.CoreCompileInputs.cache
+C:\Users\Levi Da Don\source\repos\Week1_prelab\bin\Debug\Week1_prelab.exe.config
+C:\Users\Levi Da Don\source\repos\Week1_prelab\bin\Debug\Week1_prelab.exe
+C:\Users\Levi Da Don\source\repos\Week1_prelab\bin\Debug\Week1_prelab.pdb
+C:\Users\Levi Da Don\source\repos\Week1_prelab\obj\Debug\Week1_prelab.exe
+C:\Users\Levi Da Don\source\repos\Week1_prelab\obj\Debug\Week1_prelab.pdb
+C:\Users\redzo\Source\Repos\iVelly\202330_SE245.03-C\Week1_prelab\bin\Debug\Week1_prelab.exe.config
+C:\Users\redzo\Source\Repos\iVelly\202330_SE245.03-C\Week1_prelab\bin\Debug\Week1_prelab.exe
+C:\Users\redzo\Source\Repos\iVelly\202330_SE245.03-C\Week1_prelab\bin\Debug\Week1_prelab.pdb
+C:\Users\redzo\Source\Repos\iVelly\202330_SE245.03-C\Week1_prelab\obj\Debug\Week1_prelab.csproj.AssemblyReference.cache
+C:\Users\redzo\Source\Repos\iVelly\202330_SE245.03-C\Week1_prelab\obj\Debug\Week1_prelab.csproj.SuggestedBindingRedirects.cache
+C:\Users\redzo\Source\Repos\iVelly\202330_SE245.03-C\Week1_prelab\obj\Debug\Week1_prelab.csproj.CoreCompileInputs.cache
+C:\Users\redzo\Source\Repos\iVelly\202330_SE245.03-C\Week1_prelab\obj\Debug\Week1_prelab.exe
+C:\Users\redzo\Source\Repos\iVelly\202330_SE245.03-C\Week1_prelab\obj\Debug\Week1_prelab.pdb

@@ -1,0 +1,8 @@
+C:\Users\Levi Da Don\source\repos\New-C-Sharp\Lab 5 Recreation\bin\Debug\Lab 5 Recreation.exe.config
+C:\Users\Levi Da Don\source\repos\New-C-Sharp\Lab 5 Recreation\bin\Debug\Lab 5 Recreation.exe
+C:\Users\Levi Da Don\source\repos\New-C-Sharp\Lab 5 Recreation\bin\Debug\Lab 5 Recreation.pdb
+C:\Users\Levi Da Don\source\repos\New-C-Sharp\Lab 5 Recreation\obj\Debug\Lab 5 Recreation.csproj.AssemblyReference.cache
+C:\Users\Levi Da Don\source\repos\New-C-Sharp\Lab 5 Recreation\obj\Debug\Lab 5 Recreation.csproj.SuggestedBindingRedirects.cache
+C:\Users\Levi Da Don\source\repos\New-C-Sharp\Lab 5 Recreation\obj\Debug\Lab 5 Recreation.csproj.CoreCompileInputs.cache
+C:\Users\Levi Da Don\source\repos\New-C-Sharp\Lab 5 Recreation\obj\Debug\Lab 5 Recreation.exe
+C:\Users\Levi Da Don\source\repos\New-C-Sharp\Lab 5 Recreation\obj\Debug\Lab 5 Recreation.pdb

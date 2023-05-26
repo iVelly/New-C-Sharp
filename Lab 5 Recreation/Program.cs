@@ -168,6 +168,7 @@ namespace Lab_5_Recreation
             Prompter prompter = new Prompter();
 
             Person temp = new Person();
+            PeopleV2 temp = new PeopleV2();
 
 
 
@@ -200,6 +201,8 @@ namespace Lab_5_Recreation
             temp.Zip = prompter.PromptForNonEmptyValue("Enter Zip: ");
 
             temp.Phone = prompter.PromptForNonEmptyValue("Enter Primary Address: ");
+
+            temp.instagramURL = prompter.PromptForNonEmptyValue("Enter Primary Address: ");
 
             return temp;
         }

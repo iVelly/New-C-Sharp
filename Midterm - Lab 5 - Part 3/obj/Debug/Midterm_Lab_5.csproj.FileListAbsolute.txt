@@ -1,0 +1,11 @@
+C:\Users\Levi Da Don\source\repos\New-C-Sharp\Midterm - Lab 5 - Part 3\bin\Debug\Midterm.exe.config
+C:\Users\Levi Da Don\source\repos\New-C-Sharp\Midterm - Lab 5 - Part 3\bin\Debug\Midterm.exe
+C:\Users\Levi Da Don\source\repos\New-C-Sharp\Midterm - Lab 5 - Part 3\bin\Debug\Midterm.pdb
+C:\Users\Levi Da Don\source\repos\New-C-Sharp\Midterm - Lab 5 - Part 3\obj\Debug\Midterm_Lab_5.csproj.AssemblyReference.cache
+C:\Users\Levi Da Don\source\repos\New-C-Sharp\Midterm - Lab 5 - Part 3\obj\Debug\Midterm_Lab_5.csproj.SuggestedBindingRedirects.cache
+C:\Users\Levi Da Don\source\repos\New-C-Sharp\Midterm - Lab 5 - Part 3\obj\Debug\Midterm_Lab_5.Form1.resources
+C:\Users\Levi Da Don\source\repos\New-C-Sharp\Midterm - Lab 5 - Part 3\obj\Debug\Midterm.Properties.Resources.resources
+C:\Users\Levi Da Don\source\repos\New-C-Sharp\Midterm - Lab 5 - Part 3\obj\Debug\Midterm_Lab_5.csproj.GenerateResource.cache
+C:\Users\Levi Da Don\source\repos\New-C-Sharp\Midterm - Lab 5 - Part 3\obj\Debug\Midterm_Lab_5.csproj.CoreCompileInputs.cache
+C:\Users\Levi Da Don\source\repos\New-C-Sharp\Midterm - Lab 5 - Part 3\obj\Debug\Midterm.exe
+C:\Users\Levi Da Don\source\repos\New-C-Sharp\Midterm - Lab 5 - Part 3\obj\Debug\Midterm.pdb

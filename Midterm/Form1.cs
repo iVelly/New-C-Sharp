@@ -36,7 +36,7 @@ namespace Midterm
             temp.Phone = txtphone.Text;
             temp.Email = txtemail.Text;
 
-            lblFeedback.Text = lblFeedback.Text = "User Information" + "\nFirst Name: " + txtfirstName.Text + "\nMiddle Name: " + txtmiddleName.Text + "\nLast Name: " + txtlastName.Text + "\nPrimary Address: " + txtstreet1.Text + "\nSecondary Address: " + txtstreet2.Text + "\nState: " + txtstate.Text + "\nCity: " + txtcity.Text + "\nEmail: " + txtemail.Text + "\nZip Code: " + txtzip.Text + "\nPhone Number: " + txtphone.Text;
+            lblFeedback.Text = "User Information" + "\nFirst Name: " + txtfirstName.Text + "\nMiddle Name: " + txtmiddleName.Text + "\nLast Name: " + txtlastName.Text + "\nPrimary Address: " + txtstreet1.Text + "\nSecondary Address: " + txtstreet2.Text + "\nState: " + txtstate.Text + "\nCity: " + txtcity.Text + "\nEmail: " + txtemail.Text + "\nZip Code: " + txtzip.Text + "\nPhone Number: " + txtphone.Text;
         }
     }
 }

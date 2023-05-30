@@ -9,6 +9,7 @@ using EmptySpaceTool;
 
 namespace Lab_5_Recreation
 {
+
     class People
     {
 
